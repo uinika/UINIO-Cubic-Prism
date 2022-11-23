@@ -1,0 +1,15 @@
+**/**/**-backups
+
+**/**/#auto_saved_files#
+
+**/__Previews
+
+**/schematic-positions-to-layout.debug
+
+**/_*.kicad_pcb
+
+**/Libraries/**/*.how-to-import.*
+
+**/Libraries/**/*.License.*
+
+**/_autosave-**.kicad_sch
