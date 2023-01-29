@@ -6,9 +6,9 @@
 
   (title_block
     (title "UINIO-Cubic-Prism")
-    (date "2022-10-26")
-    (rev "UinIO.com")
-    (company "Hank")
+    (date "2023-01-29")
+    (rev "Version 3.0.0")
+    (company "电子技术博客 UinIO.com")
   )
 
   (lib_symbols
